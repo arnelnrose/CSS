@@ -1,0 +1,13 @@
+p{
+    background: red;
+    display: inline;
+}
+
+span{
+    background: blue;
+    display: inlinex;
+}
+
+h1{
+    display: none;
+}

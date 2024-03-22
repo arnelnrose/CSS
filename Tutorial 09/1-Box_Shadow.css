@@ -1,0 +1,10 @@
+.container{
+    width: 150px;
+    height: 150px;
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.69);
+-webkit-box-shadow: 3px 3px 7px 0px rgba(0,0,0,0.69);
+-moz-box-shadow: 3px 3px 7px 0px rgba(0,0,0,0.69);
+border-radius: 5px;
+   
+/*https://cssgenerator.org/ */
+}

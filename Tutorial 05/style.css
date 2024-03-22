@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(241, 241, 241);
+}
+
+.Lowercase{
+    text-transform:lowercase;
+}
+
+.Uppercase{
+    text-transform: uppercase;
+}
+
+.Capitalized{
+    text-transform: capitalize;
+}
+
+p{
+    text-shadow: 1px 1px 10px rgb(0, 0, 0);
+    font-weight: 400;
+    font-size: 5vw;
+    color: rgb(60, 81, 236);
+    text-align: justify;
+
+}

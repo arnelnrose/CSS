@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    border: 10px solid rgb(97, 3, 3);
+    border-radius: 15px;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.container{
+    border: 10px solid rgb(233, 83, 83);
+    border-radius: 15px;
+    max-width: 350px;
+    width: 100%;
+    margin: auto;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+  font-size: 40px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: aqua;
+}
+
+button:hover{
+    background-color: brown;
+    color: antiquewhite;
+    border-color: blue;
+}
+
+button:active{
+    background-color: blue;
+    color: red;
+    border-color: rgb(255, 47, 47);
+}
